@@ -1,0 +1,29 @@
+commit 2b6d756403f4079fbabfcd489cb5cced9544c339
+Author: Dalcouffe1 <dillon@alcouffe.net>
+Date:   Wed Oct 1 13:25:08 2025 -0600
+
+    Changed frame size to 300x300
+
+commit 24eac9e20498226535fed74b09a8d9b559a6d3d1
+Author: Dalcouffe1 <dillon@alcouffe.net>
+Date:   Wed Oct 1 13:24:37 2025 -0600
+
+    Made cat orange
+
+commit 07e98ed0cec2e8f55b7d4caf638fee370bd522fc
+Author: bcrooks142 <bcrooks142@gmail.com>
+Date:   Wed Oct 1 12:04:45 2025 -0600
+
+    made cat mouth red
+
+commit 52b804313060af7c05421afd23ff7547a36d62bd
+Author: bcrooks142 <bcrooks142@gmail.com>
+Date:   Wed Oct 1 12:02:55 2025 -0600
+
+    .gitignore made
+
+commit 73abd30ea54af438c370b51743bc36fde826c007
+Author: bcrooks142 <bcrooks142@gmail.com>
+Date:   Wed Oct 1 10:48:38 2025 -0600
+
+    first commit
